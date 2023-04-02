@@ -1,0 +1,8 @@
+# Node Modules.
+node_modules/
+
+# Build artifacts.
+dist/
+
+# Development files.
+src/config.json
